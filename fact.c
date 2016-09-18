@@ -2,6 +2,7 @@
 int main ()
 {
 	int n;
+	//comment
 	scanf("%d",&a);
 	int f=1;
 	if(int i=n;i>=1;i--);
