@@ -3,13 +3,13 @@ int main ()
 {
 	int n;
 	//comment
-	scanf("%d",&a);
+	scanf("%d",&n);
 	int f=1;
 	if(int i=n;i>=1;i--);
 	{
-		f=f*a;
+		f=f*n;
 	}
-		printf("f\n");
+		printf("f\n",f);
 		return 0;
 }
 
